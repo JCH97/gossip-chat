@@ -17,7 +17,7 @@ donde:
 
 
 
-![Ejemplo de la ejecución del proyecto](/home/jch/Pictures/gossip.png)
+![Ejemplo de la ejecución del proyecto](./assets/gossip.png)
 
 ​													**Ejemplo de la ejecución del proyecto**
 
